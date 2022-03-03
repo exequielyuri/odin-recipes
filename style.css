@@ -1,0 +1,29 @@
+h1 {
+    color: green;
+    font-family: Garamond;
+}
+
+.recipe {
+    font-weight: bold;
+}
+
+.creole {
+    color: #e95815;
+    font-family: "Lucida Console", arial;
+}
+
+.hush {
+    color: #f18832;
+    font-family: Papyrus, arial;
+}
+
+.mardi {
+    color: rgb(179, 28, 179);
+    font-family: "Times New Roman", arial;
+    font-style: italic;
+}
+
+img {
+    height: auto;
+    width: 300px;
+}
